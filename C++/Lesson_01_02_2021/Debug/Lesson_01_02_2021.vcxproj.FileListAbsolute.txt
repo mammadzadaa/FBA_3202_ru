@@ -1,0 +1,2 @@
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_01_02_2021\Debug\Lesson_01_02_2021.exe
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_01_02_2021\Debug\Lesson_01_02_2021.pdb

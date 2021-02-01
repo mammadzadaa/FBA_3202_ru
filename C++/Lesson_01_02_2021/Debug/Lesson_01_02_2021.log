@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_01_02_2021\Source.cpp(17): warning C4717: 'foo1': recursive on all control paths, function will cause runtime stack overflow
+  Lesson_01_02_2021.vcxproj -> C:\Qt\Projects\FBA_3202_ru\C++\Lesson_01_02_2021\Debug\Lesson_01_02_2021.exe
