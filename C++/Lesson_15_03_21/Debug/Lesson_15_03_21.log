@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_15_03_21\Source.cpp(89,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_15_03_21\Source.cpp(94,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_15_03_21\Source.cpp(99,24): warning C4305: '=': truncation from 'double' to 'float'
+  Lesson_15_03_21.vcxproj -> C:\Qt\Projects\FBA_3202_ru\C++\Lesson_15_03_21\Debug\Lesson_15_03_21.exe
