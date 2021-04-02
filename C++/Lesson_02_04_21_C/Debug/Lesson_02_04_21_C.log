@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_02_04_21_C\Source.c(22,18): warning C4013: '_strdup' undefined; assuming extern returning int
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_02_04_21_C\Source.c(22,26): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Qt\Projects\FBA_3202_ru\C++\Lesson_02_04_21_C\Source.c(23,33): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+  Lesson_02_04_21_C.vcxproj -> C:\Qt\Projects\FBA_3202_ru\C++\Lesson_02_04_21_C\Debug\Lesson_02_04_21_C.exe
